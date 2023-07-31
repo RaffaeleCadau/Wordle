@@ -1,0 +1,10 @@
+{
+    "address":"127.0.0.1",
+    "port":8888,
+    "addressMulticast":"235.0.34.6",
+    "portMulticast":2222,
+    "fileLogin":"utenti.json",
+    "filePlayer":"utentiPlayer.json",
+    "dict":"words.txt",
+    "time":300
+}

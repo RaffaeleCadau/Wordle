@@ -1,4 +1,4 @@
-#Wordle
+# Wordle
 
 Il gioco di Wordle è un gioco di parole in cui il giocatore deve indovinare una parola di 10 lettere, estratta casualmente, entro un massimo di 12 tentativi.
 Wordle è scritto in java con architettura client-server, il client consente all’utente di interagire con il gioco attraverso un’interfaccia utente intuitiva.
